@@ -1,4 +1,4 @@
-token = '1826837902:AAHx7J-20PrO01OybGAboSlmmyMLGI-3KJg' # Токен бота
+token = "1826837902:AAHx7J-20PrO01OybGAboSlmmyMLGI-3KJg" # Токен бота
 loginbot = '@hufbdjvbot' # Логин бота телеграм
 
 QIWI_PUBLICKEY = 'xxxxxx' #p2p public key
